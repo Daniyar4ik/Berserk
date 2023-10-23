@@ -1,2 +1,2 @@
 # Berserk
-Amimated Berserk manga
+Animated Berserk manga
