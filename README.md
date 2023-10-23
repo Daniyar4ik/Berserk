@@ -1,0 +1,2 @@
+# Berserk
+Amimated Berserk manga
